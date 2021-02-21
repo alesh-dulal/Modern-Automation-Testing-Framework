@@ -1,0 +1,22 @@
+{
+  "name": "modern-automation-testing-framework",
+  "version": "1.0.0",
+  "description": "learn cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesh-dulal/Modern-Automation-Testing-Framework.git"
+  },
+  "author": "alesh-dulal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alesh-dulal/Modern-Automation-Testing-Framework/issues"
+  },
+  "homepage": "https://github.com/alesh-dulal/Modern-Automation-Testing-Framework#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
